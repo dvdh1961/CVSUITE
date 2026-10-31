@@ -33,7 +33,7 @@ A ColecoVision VISUAL GAME DESIGNER SUITE for Windows & Linux.
 
 ## 🚀 Versions
 
-Version x x86_64 Windows & Linux
+Version CVS_V1.0.10.26 x86_64 Windows & Linux
 
 Our CVSuite Visual Game Designer is a standalone development environment for designing, programming, compiling and testing ColecoVision games, featuring a built-in emulator based on ADAM+.
 1. Project and hardware configuration
