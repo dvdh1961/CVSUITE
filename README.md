@@ -20,7 +20,7 @@ A ColecoVision VISUAL GAME DESIGNER SUITE for Windows & Linux.
 [![release](https://img.shields.io/badge/Latest%20release-windows8+_64_ZIP-green.svg)](https://github.com/dvdh1961/CVSUITE/releases/download/1.0.10.26/WINDOWS_CVSUITE_1.0.10.26.zip)
 [![release](https://img.shields.io/badge/Latest%20release-linux64_ZIP-blue.svg)](https://github.com/dvdh1961/CVSUITE/releases/download/1.0.10.26/LINUX_CVSUITE_1.0.10.26.zip)
 ![Current Release](https://img.shields.io/badge/Version-V1.0.10.26-yellow)
-![Downloads](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/dvdh1961/ADAMP/main/stats/downloads.json&label=Downloads&query=display_total&color=orange)
+
 
 ![Stars](https://img.shields.io/github/stars/dvdh1961/CVSUITE)
 ![Issues](https://img.shields.io/github/issues/dvdh1961/CVSUITE)
