@@ -1,6 +1,10 @@
 # CVSUITE
 CVSUITE -  VISUAL GAME DESIGNER
 
+As the ADAM+ Emulator was starting to become a bit overloaded with features, I decided to separate the entire game development section and turn it into a standalone application, complete with its own built-in emulator based on ADAM+.
+
+This way, I can maintain both applications more easily, and users who aren't interested in game development won't have to deal with features they don't need. 
+
 ![Logo](https://github.com/dvdh1961/CVSUITE/blob/main/CVSUITE_GH/CVSUITE1.png)
 
 ![Logo](https://github.com/dvdh1961/CVSUITE/blob/main/CVSUITE_GH/CVSUITE_COMBINE.png)
