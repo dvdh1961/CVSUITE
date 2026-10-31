@@ -3,6 +3,8 @@ CVSUITE -  VISUAL GAME DESIGNER
 
 ![Logo](https://github.com/dvdh1961/CVSUITE/blob/main/CVSUITE_GH/CVSUITE1.png)
 
+![Logo](https://github.com/dvdh1961/CVSUITE/blob/main/CVSUITE_GH/CVSUITE_COMBINE.png)
+
 ---
 
 This software is free to use for personal, educational, and non-profit purposes.
