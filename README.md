@@ -31,6 +31,14 @@ A ColecoVision VISUAL GAME DESIGNER SUITE for Windows & Linux.
 
 ---
 
+## 🗳️ What do you think of CVSuite?
+
+Would you use the CVSuite Visual Game Designer?
+
+👉 **[Vote in the poll](PASTE_YOUR_POLL_URL_HERE)**
+
+---
+
 ## 🚀 Versions
 
 Version CVS_V1.0.10.26 x86_64 Windows & Linux
