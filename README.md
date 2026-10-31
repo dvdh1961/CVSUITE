@@ -35,7 +35,7 @@ A ColecoVision VISUAL GAME DESIGNER SUITE for Windows & Linux.
 
 Would you use the CVSuite Visual Game Designer?
 
-👉 **[Vote in the poll](PASTE_YOUR_POLL_URL_HERE)**
+👉 **[Vote in the poll](https://github.com/dvdh1961/CVSUITE/discussions/1)**
 
 ---
 
